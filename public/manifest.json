@@ -1,0 +1,11 @@
+{
+  "sap.app": {
+    "id": "com.pi.industry",
+    "applicationVersion": {
+      "version": "1.0.0"
+    }
+  },
+  "sap.cloud": {
+    "service": ""
+  }
+}
